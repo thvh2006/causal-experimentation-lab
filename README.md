@@ -14,6 +14,12 @@ a production experimentation-system design.
 [Full case study](CASE_STUDY.md) ·
 [Experiment platform design](docs/experiment_platform_design.md)
 
+## Start here
+
+- [Executed research walkthrough](notebooks/01_research_walkthrough.ipynb) — RCT audit, estimands, uplift construction, and validity gates
+- [Feature provenance](docs/feature_provenance.md) — source, cutoff, fit scope, leakage risk, and validation for every model input
+- [Machine-readable feature register](reports/feature_provenance.csv)
+
 ## Decision question
 
 Does treatment assignment create incremental visits and conversions—and when
