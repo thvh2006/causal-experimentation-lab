@@ -16,7 +16,7 @@ a production experimentation-system design.
 
 ## Start here
 
-- [Executed research walkthrough](notebooks/01_research_walkthrough.ipynb) — RCT audit, estimands, uplift construction, and validity gates
+- [Deep executed research walkthrough](notebooks/01_research_walkthrough.ipynb) — RCT audit, estimands, uplift policy evidence, diagnostic charts, validity gates, and limitations
 - [Feature provenance](docs/feature_provenance.md) — source, cutoff, fit scope, leakage risk, and validation for every model input
 - [Machine-readable feature register](reports/feature_provenance.csv)
 
